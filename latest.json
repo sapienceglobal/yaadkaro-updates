@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.0",
-  "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/V1.0.0/YaadKaro.apk",
-  "releaseNotes": "• Initial Release\n• Added Profile Screen\n• Added Vision AI Scanning"
+  "latestVersion": "1.0.1",
+  "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/V1.1.0/YaadKaro.apk",
+  "releaseNotes": "• Added Human-like AI Voice using ElevenLabs\n• Improved Handwritten Note Scanning (Vision + OCR Hybrid)\n• Better Question-Answer Extraction from messy notes\n• More reliable TTS fallback system\n• Performance improvements"
 }
