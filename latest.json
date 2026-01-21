@@ -1,5 +1,5 @@
 {
   "latestVersion": "1.0.1",
-  "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/V1.0.1/YaadKaro.apk",
-  "releaseNotes": "• Added Human-like AI Voice using ElevenLabs\n• Improved Handwritten Note Scanning (Vision + OCR Hybrid)\n• Better Question-Answer Extraction from messy notes\n• More reliable TTS fallback system\n• Performance improvements"
+  "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/v1.0.1/YaadKaro.apk",
+  "releaseNotes": "• 🚀 New Feature: AI Chat History - Your conversations are now saved locally. Swipe to access past sessions.\n• 📸 Enhanced Note Scan - Fixed handwriting recognition! Now extracts questions accurately even from messy notes.\n• ✨ AI Tab UI - Cleaner interface with smoother animations.\n• 🧠 Smart Session Logic - Empty chats are no longer saved to history.\n• ⚡ Performance Improvements & Bug Fixes."
 }
