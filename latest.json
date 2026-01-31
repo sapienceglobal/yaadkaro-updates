@@ -1,5 +1,5 @@
 {
   "latestVersion": "1.6.0",
   "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/V1.6.0/YaadKaro.apk",
-  "releaseNotes": "• 🔐 **New Auth System:** Login/Signup in **Tabs** with **Forgot Password** (OTP) & Change Password.\n• 🛡️ **Improved Security:** Rate Limit increased to **15 attempts** (was 5). A 15-minute cooldown dialog appears after exceeding limits.\n• 🔄 **Auto-Update:** App now checks for updates in the background on launch.\n• 🧠 **Custom Quiz:** Select **Difficulty** & **Question Count** before playing.\n• 🔙 **Smart Nav:** Back returns to Home. Added **Exit Popup** on double tap.\n• 🐛 **Bug Fixes:** Resolved **AI Voice Overlapping** issue & added Skeleton Loaders."
+  "releaseNotes": "• 🔐 New Auth System: Login/Signup in Tabs with Forgot Password (OTP) & Change Password.\n• 🛡️ Improved Security: Rate Limit increased to 15 attempts (was 5). A 15-minute cooldown dialog appears after exceeding limits.\n• 🔄 Auto-Update: App now checks for updates in the background on launch.\n• 🧠 Custom Quiz: Select Difficulty & Question Count before playing.\n• 🔙 Smart Nav: Back returns to Home. Added Exit Popup on double tap.\n• 🐛 Bug Fixes: Resolved AI Voice Overlapping issue & added Skeleton Loaders."
 }
