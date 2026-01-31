@@ -1,5 +1,5 @@
 {
   "latestVersion": "1.5.0",
   "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/V1.5.0/YaadKaro.apk",
-  "releaseNotes": "• 🔐 **New Auth System:** Login/Signup is now in **Tabs**. Added **Forgot Password** (via OTP) & **Change Password** in Profile.\n• 🧠 **Custom Quiz:** You can now select **Difficulty Level** & **Number of Questions** before generating.\n• ✨ **Better UI:** Added **Skeleton Loaders** on app launch for a smoother experience.\n• ⚡ **Optimizations:** Simplified password policy (min 6 chars) & removed legacy Quiz Mode (Chat Mode only)."
+  "releaseNotes": "• 🔐 **New Auth System:** Login/Signup in **Tabs** with **Forgot Password** (OTP) & Change Password.\n• 🔄 **Auto-Update:** App now checks for updates in the background on launch.\n• 🧠 **Custom Quiz:** Select **Difficulty** & **Question Count** before playing.\n• 🔙 **Smart Nav:** Back returns to Home. Added **Exit Popup** on double tap.\n• 🐛 **Bug Fixes:** Resolved **AI Voice Overlapping** issue & added Skeleton Loaders."
 }
