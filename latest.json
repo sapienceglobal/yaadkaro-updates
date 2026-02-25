@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.7.0",
-  "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/V1.7.0/YaadKaro.apk",
+  "latestVersion": "1.7.1",
+  "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/V1.7.1/app-release.apk",
   "releaseNotes": "• 🚀 One-Tap Google Login: Experience seamless sign-ups and blazing-fast logins with advanced Google Authentication.\n• 🔐 Smart Password Security: Reset options and adaptive Change Password flows optimized for Google-linked accounts.\n• 🛡️ Local Data Cleanup: Removed legacy unused screens, improving app size and launch performance.\n• ⚙️ Stability & Sync Fixes: Background database synchronisation for immediate reflection of user profiles and quiz stats."
 }
