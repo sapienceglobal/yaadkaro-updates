@@ -1,5 +1,5 @@
 {
   "latestVersion": "1.8.0",
-  "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/V1.7.1/app-release.apk",
+  "apkUrl": "https://github.com/sapienceglobal/yaadkaro-updates/releases/download/1.8.0/YaadKaro.apk",
   "releaseNotes": "• 📄 PDF Support: Upload PDFs directly in AI chat — extracted and analyzed instantly.\n• 🖼️ Multi-Image Chat: Send up to 3 images at once for visual AI assistance.\n• 💬 Smarter AI Context: PDF and image context handled seamlessly in background for cleaner conversations.\n• 🗂️ Chat History Improved: Images and PDFs now persist correctly across sessions.\n• ⚡ Stability Fixes: Faster uploads, better error handling, and timeout improvements."
 }
